@@ -1,0 +1,23 @@
+{
+  "name": "simple-browsersync-webpack-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m0xx/simple-browsersync-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "browsersync"
+  ],
+  "author": "Maxime Morin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m0xx/simple-browsersync-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/m0xx/simple-browsersync-webpack-plugin#readme"
+}
